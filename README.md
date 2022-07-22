@@ -7,7 +7,7 @@
 ## Usage
 
 ```sh
-Baixe o projeto e abra o arquivo &#34;index.html&#34;.
+Baixe o projeto e abra o arquivo "index.html".
 ```
 
 ## Author
