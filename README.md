@@ -14,7 +14,7 @@ Baixe o projeto e abra o arquivo "index.html".
 
 👤 **Renan Andrade de Gouveia**
 
-* Github: [@ag-renan](https://github.com/ag-renan)
+* Github: [@renan-ag](https://github.com/renan-ag)
 
 ## Show your support
 
